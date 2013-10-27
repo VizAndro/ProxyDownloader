@@ -1,0 +1,20 @@
+
+
+DESCRIPTION
+===============
+
+Program to download global proxy pages and IP's. Only the once that can be connected within 5 sec.
+
+HOW TO
+===============
+
+First to make the program work:
+GlobalProxy.py pages  <- download pages with global proxy IP(ProxyPageList.txt). NEEDED to download the IP list.
+
+GlobalProxy.py ip     <- download IP list to file ProxyList_1.txt
+
+
+IF NOT WORKING
+===============
+
+-check chmod (eg. chmod a+x GlobalProxy.py)
