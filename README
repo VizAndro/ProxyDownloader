@@ -1,9 +1,9 @@
 
-
 DESCRIPTION
 ===============
 
-Program to download global proxy pages and IP's. Only the once that can be connected within 5 sec.
+Simple program to download global proxy pages and IP's. Only thies that can be connected within 5 sec. 
+Really simple python 2.7 code.
 
 HOW TO
 ===============
