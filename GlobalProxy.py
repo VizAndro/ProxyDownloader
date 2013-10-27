@@ -73,7 +73,7 @@ class Proxy:
       proxies = re.findall( '\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\:\d{1,4}', html )
       #print proxies
       #for ip in proxies:
-      # if self.Connection( "http://www.google.pl/", ip ):
+      # if self.Connection( "http://www.google.com/", ip ):
 	  #print ip
 	  #proxy.append( ip )
       return self.ArrayUnique( proxies )
